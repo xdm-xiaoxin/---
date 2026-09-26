@@ -122,6 +122,18 @@ Windows  双击 一键配置.bat
   error: null
 }
 ```
+## 发布地址
+
+- 仓库主页：<https://github.com/xdm-xiaoxin/xxt-xiaoxindemo>
+- 发布页（下载脚本、查看更新）：<https://github.com/xdm-xiaoxin/xxt-xiaoxindemo/releases/tag/xxt>
+- 一键安装：**装好油猴后点开下面这个链接，会直接弹出脚本安装页**
+  <https://github.com/xdm-xiaoxin/xxt-xiaoxindemo/raw/main/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%A4%B9/xxt-xiaoxin_demo.js>
+  （如果仓库默认分支不是 `main`，把链接里的 `main` 换成 `master`）
+
+<!-- 小提示：把 xxt-xiaoxin_demo.js 改名为 xxt-xiaoxin_demo.user.js 放到仓库根目录，
+     安装链接会短很多、不用带中文路径转义，也更符合用户脚本仓库的习惯。 -->
+
+---
 
 ## 免责声明
 
