@@ -1,4 +1,4 @@
-# 学习通网课助手 · demo 版
+# 学习通刷课工具-xiaoxin_demo
 
 一个跑在油猴（Tampermonkey）里的超星学习通自动化用户脚本。**答案由你自己的 DeepSeek API 生成**，不依赖任何第三方付费题库。
 
